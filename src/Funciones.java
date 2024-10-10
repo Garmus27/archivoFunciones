@@ -7,6 +7,14 @@ public class Funciones {
     Scanner sc = new Scanner(System.in);
     Random rd = new Random();
 
+    /*         ****** IMPORTANTE ******
+
+    Recuerden mejor 7 veces con blanca nieves y no una con cada enano
+            Siempre calidad antes que cantidad
+            #ConsejosQueNadiePidio
+            #SiMePagarPorHablarBoludeces */
+
+
     //// Funciones para Arrays
     public void rellenarArrayRandom(int[] array,int rango) {
 
